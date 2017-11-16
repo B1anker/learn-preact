@@ -8,7 +8,6 @@
   "scripts": {
     "dev": "babel-node build/server",
     "webpack": "babel-node build/build",
-    "rollup": "babel-node build/rollup.config.prod.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "tslint --project tsconfig.json"
   },
